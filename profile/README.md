@@ -1,3 +1,10 @@
+<img width="1050" height="350" src="https://github.com/user-attachments/assets/0ecbb89b-450f-4222-b227-5a2e7a65c498" title="DMCA">
+
+Recently, My GTA 5 Source Code Build guide has got DMCA'ed by Take Two. They even copyright striked my videos about this stuff....<br>
+So i just released the guide in my discord server, You can find the discord invite link from the organization page.
+
+
+
 **<p align="center">——— Hall of Fame ———</p>**
 <img src="https://github.com/P0L3NARUBA/.github/assets/146978592/f9da16a1-3854-4ea9-900d-5a490cfc5f36" title="Debuggin..">
 <img width="400" height="300" src="https://github.com/P0L3NARUBA/.github/assets/146978592/b1b05b8c-4e0e-4bee-8ef0-792921b55b45" title="Cruising with 350Z">
