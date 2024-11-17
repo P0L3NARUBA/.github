@@ -2,6 +2,7 @@
 
 Recently, My GTA 5 Source Code Build guide has got DMCA'ed by Take Two. They even copyright striked my videos about this stuff....<br>
 So i just released the guide in my discord server, You can find the discord invite link from the organization page.
+Or, Check out my friend's new github guide: https://github.com/voyageprofessor/gtav-sourcecode-build-guide
 
 
 
