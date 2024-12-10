@@ -6,7 +6,7 @@ So i just released the guide in my discord server, You can find the discord invi
 Or, Check out my new github guide: https://github.com/voyageprofessor/gtav-sourcecode-build-guide
 
 
-
+<!--
 **<p align="center">——— Hall of Fame ———</p>**
 <img src="https://github.com/P0L3NARUBA/.github/assets/146978592/f9da16a1-3854-4ea9-900d-5a490cfc5f36" title="Debuggin..">
 <img width="400" height="300" src="https://github.com/P0L3NARUBA/.github/assets/146978592/b1b05b8c-4e0e-4bee-8ef0-792921b55b45" title="Cruising with 350Z">
@@ -16,4 +16,4 @@ Or, Check out my new github guide: https://github.com/voyageprofessor/gtav-sourc
 
 **<p align="center">——— Hall of Fame ———</p>**
 
-<!-- For those who reading this, dSB3aW4gYm9pLg== -->
+ For those who reading this, dSB3aW4gYm9pLg== -->
