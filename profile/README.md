@@ -1,6 +1,6 @@
 **<p align="center">——— Willkommen to my Cave ———</p>**
 
-This organization is owned by YungDoom and it'll be until he mets his destiny.
+<p align="center"> This organization is owned by YungDoom and it'll be until he mets his destiny. </p>
 
 **<p align="center">——— Tschüss 👋 ———</p>**
 
