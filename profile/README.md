@@ -1,3 +1,9 @@
+**<p align="center">——— Willkommen to my Cave ———</p>**
+
+This organization is owned by YungDoom and it'll be until he mets his destiny.
+
+**<p align="center">——— Tschüss 👋 ———</p>**
+
 <img width="1050" height="350" src="https://github.com/user-attachments/assets/0ecbb89b-450f-4222-b227-5a2e7a65c498" title="DMCA">
 
 Recently, My GTA 5 Source Code Build guide has got DMCA'ed by Take Two.<br>
