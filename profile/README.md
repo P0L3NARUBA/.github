@@ -1,6 +1,6 @@
 **<p align="center">——— Willkommen to my Cave ———</p>**
 
-<p align="center"> This organization belomgs to yungDoom until he mets his destiny. </p>
+<p align="center"> This organization belongs to yungDoom until he mets his destiny. </p>
 
 **<p align="center">——— Tschüss 👋 ———</p>**
 
